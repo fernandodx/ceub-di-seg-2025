@@ -1,0 +1,17 @@
+Neomorphism (ou neumorfismo) é esse estilo visual que funde minimalismo com profundidade realista — elementos parecendo pressionados ou recortados no fundo com sombras suaves 
+Wikipedia
+Webflow
+. É esteticamente moderno e atraente, ótimo para destacar botões ou cards com um toque sutil e tátil 
+cccreative.design
+vintagiodesign.com
+. Mas tem um problema sério: contraste muito baixo, o que torna difícil enxergar ou interagir, especialmente pra quem tem deficiência visual ou em ambientes com muita luz 
+accessicart.com
+Big Human
+Webflow
+. Também confunde hierarquias visuais — tudo vira “botão” e fica difícil saber o que é clicável 
+Designerly
+LogRocket Blog
+. A verdade é que virou mais um visual popular em Dribbble/Behance do que uma prática adotada de verdade em produtos reais 
+Webflow
+Designerly
+. Então, resumindo: usar com cautela — serve como destaque estético, branding ou conceito, mas não deve ser o estilo-base de uma interface funcional.
