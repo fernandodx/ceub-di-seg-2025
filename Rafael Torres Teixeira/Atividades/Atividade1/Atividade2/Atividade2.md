@@ -1,5 +1,8 @@
 \# Exemplo de Resposta - Atividade de Web Design
 
+Nome: Rafael Torres Teixeira
+RA: 22503930
+
 \## 1. Paleta de Cores
 
 A paleta escolhida para o aplicativo fictício de saúde e bem-estar
