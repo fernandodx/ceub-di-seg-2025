@@ -1,0 +1,61 @@
+**Proposta de Identidade Visual: FastFit**
+
+O **FastFit** é um aplicativo de esportes e bem-estar projetado para ser acolhedor, motivador e acessível a todos. A identidade visual foi construída sobre pilares de clareza, calma e foco, garantindo uma experiência de usuário positiva e sem barreiras.
+
+**1\. Paleta de Cores**
+
+A paleta foi escolhida para ser calma e energética, com altíssimo contraste para garantir a legibilidade para usuários com diferentes tipos de daltonismo. As cores foram selecionadas para criar um ambiente digital seguro e previsível, evitando a superestimulação. A paleta foi escolhida para ser calma e energética, com altíssimo contraste para garantir a legibilidade para usuários com diferentes tipos de daltonismo. As cores foram selecionadas para criar um ambiente digital seguro e previsível, evitando a superestimulação.
+
+**Cor Primária**
+
+*   **Hexadecimal: #005B96**
+*   **Justificativa: Um tom de azul profundo que transmite calma, confiança e concentração. É uma cor estável que ajuda a reduzir a ansiedade e a manter o foco nas atividades. Assim mantendo uma experiencia agradável para o usuário.**
+
+**Cor Secundária**
+
+*   **Hexadecimal: #B3CDE0**
+*   **Justificativa: Um azul claro e desnaturado, usado para elementos de suporte e fundos de cards. Complementa a cor primária sem competir por atenção, mantendo a harmonia visual.**
+
+**Cor de Destaque**
+
+*   **Hexadecimal: #FF8C00**
+*   **Justificativa: Uma cor vibrante e convidativa, usada para botões de ação, ícones importantes e barras de progresso. Transmite motivação e energia, além de oferecer excelente contraste com os tons de azul.**
+
+**Cor de Fundo**
+
+*   **Hexadecimal: #F8F9FA**
+*   **Justificativa: Um fundo quase branco, mas com um leve tom de cinza, que reduz o brilho excessivo da tela e o cansaço visual, tornando a leitura mais confortável.**
+
+**Cor do Texto**
+
+*   **Hexadecimal: #343A40**
+*   **Justificativa: Um tom de cinza-chumbo em vez de preto puro. Oferece alto contraste sobre o fundo claro, mas de forma mais suave, o que melhora a legibilidade e diminui a fadiga ocular.**
+
+**2\. Tipografia**
+
+A tipografia foi selecionada com base na máxima legibilidade e clareza. As fontes escolhidas possuem formas de letras distintas, bom espaçamento e uma aparência amigável, facilitando a leitura para todos os usuários, especialmente aqueles com TDAH e dislexia.
+
+**Fonte Primária (Títulos): Montserrat**
+
+**Justificativa:** Montserrat é uma fonte sans-serif geométrica com uma grande altura-x (a altura das letras minúsculas), o que a torna extremamente clara e legível, mesmo à distância. Sua aparência é moderna, limpa e direta, ideal para títulos que precisam capturar a atenção sem causar distração. As formas abertas das letras ajudam a criar uma hierarquia visual forte e a guiar o olhar do usuário de forma eficiente.
+
+**Fonte Secundária (Textos de apoio): Nunito Sans**
+
+*   **Justificativa:** Nunito Sans é uma fonte sans-serif bem equilibrada e com terminais arredondados, o que lhe confere uma aparência amigável e acessível. É extremamente legível em tamanhos menores, ideal para descrições de exercícios, instruções e parágrafos de texto. A distinção clara entre os caracteres (como 'I' e 'l') evita confusão na leitura.
+
+**Exemplo Visual:**
+
+**3\. Estudo de Guideline: Material Design 3**
+
+Para o FastFit, o sistema de design escolhido é o Material Design 3 do Google. Ele é robusto, moderno e possui uma documentação extremamente detalhada sobre acessibilidade, que é o pilar do nosso aplicativo.
+
+**Princípio de Design**: Acessibilidade de Cores e Contraste
+
+O Material Design 3 estabelece diretrizes de acessibilidade de cores com um princípio fundamental: garantir que a interface seja perfeitamente utilizável por pessoas com diversas deficiências visuais, incluindo diferentes formas de daltonismo e baixa visão. A filosofia central é que a cor nunca deve ser o único meio de transmitir uma informação crítica, indicar uma ação ou distinguir um elemento visual. Isso porque, para um usuário daltônico, a diferença entre um status 'ativo' (verde) e 'inativo' (vermelho) pode ser completamente invisível. Para reforçar isso, a diretriz exige taxas de contraste mínimas e rigorosas entre o texto e seu fundo: pelo menos 4.5:1 para texto de tamanho normal e 3:1 para textos grandes (acima de 18pt ou 14pt em negrito), assegurando a legibilidade em várias condições de iluminação e para usuários com baixa visão. Além disso, o guia vai além do contraste, incentivando o uso de reforços visuais redundantes. Por exemplo, um campo de formulário com erro não deve ser sinalizado apenas com uma borda vermelha, mas também com um ícone de alerta e uma mensagem de texto explicativa. Da mesma forma, um gráfico que usa cores para diferenciar dados deve também usar padrões, texturas ou legendas claras para não depender apenas da percepção cromática. Essa abordagem multifacetada garante que todos os usuários, independentemente de como percebem as cores, recebam a mesma informação crucial de forma clara e inequívoca.
+
+Este princípio seria aplicado diretamente no design do FastFit para garantir sua usabilidade e inclusão:
+
+1.  **Contraste Garantido**: Todos os textos e botões seriam testados para atender às taxas de contraste. Por exemplo, o texto laranja (#FF8C00) sobre o fundo branco (#F8F9FA) e o texto branco sobre os botões de cor primária (#005B96) seriam verificados com ferramentas de contraste para garantir que excedam a taxa de 4.5:1.
+2.  **Informação Multicanal**: O progresso em um treino não seria indicado apenas por uma barra que muda de cor. Usaríamos a cor laranja (#FF8C00) para preencher a barra, mas também um texto claro (ex: "5/10 exercícios concluídos") e um ícone de "check" ao lado de cada exercício finalizado.
+3.  **Feedback Acessível**: Ao completar uma meta, em vez de apenas mostrar um texto verde, o app exibiria uma animação sutil, um ícone de troféu e uma mensagem de parabéns em texto claro, como "Meta diária alcançada!". Isso fornece um feedback claro e positivo sem depender exclusivamente da cor.
+4.  **Seleção de Itens:** Em uma lista de tipos de treino, o item selecionado não teria apenas a cor de fundo alterada, mas também uma borda mais espessa ou um ícone de seleção visível, garantindo que a escolha seja óbvia para todos.
