@@ -1,0 +1,7 @@
+O Glassmorphism é um estilo de design que une beleza e funcionalidade. Ele é conhecido pelo efeito de transparência e desfoque no fundo, que lembra vidro fosco. Mas ele não é só enfeite — esse visual ajuda a organizar melhor as informações e deixar a navegação mais agradável.
+
+Primeiro, a transparência controlada permite que o fundo ainda seja visível, mas sem tirar a atenção do que está na frente. Isso mantém um senso de continuidade e ajuda o usuário a entender a relação entre os elementos na tela.
+
+Segundo, o Glassmorphism cria sensação de profundidade e “camadas” sem precisar de gráficos pesados ou complexos. O uso de desfoque, sombras suaves e cantos arredondados passa um ar moderno e sofisticado, parecido com superfícies de vidro polido.
+
+Em resumo, o Glassmorphism não é apenas uma moda passageira. Quando usado com cuidado e conhecimento técnico, ele torna as interfaces mais bonitas, organizadas e imersivas — entregando uma experiência que é, ao mesmo tempo, prática e visualmente agradável.
