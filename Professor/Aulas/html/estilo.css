@@ -1,0 +1,65 @@
+/*
+SINTAX DO CSS
+
+SELETOR {
+    propriedade : "valor";
+    propriedade2 : 2;
+}
+
+*/
+
+h1 {
+    color: blueviolet;
+    font-size: 20px;
+    background-color: aquamarine;
+}
+
+p {
+    color: #ff2244;
+}
+
+p b {
+    color: #056513;
+}
+
+ul li b {
+    color: aquamarine;
+}
+
+li {
+    color: gray;
+}
+
+#item_limao {
+    color: greenyellow;
+}
+
+.botao_padrao {
+    color: purple;
+    background-color: azure;
+    border: 2px solid;
+    border-radius: 5px;
+    padding: 8px;
+    cursor: pointer;
+}
+
+.botao_padrao:hover {
+    color: rgb(0, 128, 28);
+    background-color: rgb(4, 68, 68);
+    border: 2px solid;
+    border-radius: 16px;
+    padding: 8px;
+     transition: 0.5s;
+
+}
+
+
+.meu_titulo {
+    color: red;
+    font-weight: 700;
+    background-color: #11779625;
+    border: 5px #ff2244 solid;
+    border-style: dotted;
+    margin: 8px;
+    padding: 8px;
+}

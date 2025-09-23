@@ -7,6 +7,7 @@
     <meta charset="UTF-8">
     <meta name="viewport"
           content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="estilo.css">    
     <title>CEUB</title>
 </head>
 <body>
@@ -14,7 +15,7 @@
     <h1>Minha Primeira Página</h1> 
 
     <!-- Títulos -->
-    <h1>Título Principal</h1> 
+    <h1 class="meu_titulo">Título Principal</h1> 
     <h2>Título Secundário</h2>
     <h3>Título nível 3</h3>
     <h4>Título nível 4</h4>
@@ -31,15 +32,15 @@
     <hr><!-- Linha horizontal-->
 
     <!-- Listas-->
-    <h3>Lista Não Ordenada com tag ul</h3>
+    <h3 class="meu_titulo">Lista Não Ordenada com tag ul</h3>
     <ul>
-        <li>Maçã</li>
-        <li>Limão</li>
+        <li><b>Maçã</b></li>
+        <li id="item_limao">Limão</li>
         <li>banana</li>
     </ul>
     <h3>Lista Ordenada com tag ol</h3>
     <ol>
-        <li>Maçã</li>
+        <li><b>Maçã</b></li>
         <li>Limão</li>
         <li>banana</li>
         <li>Uva</li>
@@ -110,12 +111,23 @@
             <input type="email" placeholder="Digite o e-mail" required>
         </p>
         <p>
-            <input type="submit" value="Enviar">
+            <input class="botao_padrao" type="submit" value="Enviar">
         </p>
-       
-       
     </form> 
      </div>
+
+     <br>
+     <img width="100" height="100"
+         src="https://uploads.metroimg.com/wp-content/uploads/2021/01/25172319/novo-ceub-1.jpg">
+     <br>
+     <img width="50" height="50"
+        src="logo_ceub.png"/>   
+     <br>
+
+     <a href="sobre.html">Sobre</a>
+     
+     
+
     
 
 </body>
